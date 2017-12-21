@@ -1,0 +1,7 @@
+EEEEEE  X     X    A    MMM MM  PPPPP   L       EEEEEE  
+E        X   X    A A   M  M  M P     P L       E       
+E         X X    A   A  M  M  M P     P L       E       
+EEEEEE     X    A     A M  M  M P     P L       EEEEEE  
+E         X X   AAAAAAA M  M  M PPPPPP  L       E       
+E        X   X  A     A M  M  M P       L       E       
+EEEEEEE X     X A     A M  M  M P       LLLLL   EEEEEEE 
